@@ -1,0 +1,14 @@
+/Users/valdas/Downloads/WebApi/Repository/bin/Debug/net6.0/Repository.deps.json
+/Users/valdas/Downloads/WebApi/Repository/bin/Debug/net6.0/Repository.runtimeconfig.json
+/Users/valdas/Downloads/WebApi/Repository/bin/Debug/net6.0/Repository.dll
+/Users/valdas/Downloads/WebApi/Repository/bin/Debug/net6.0/Repository.pdb
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.csproj.AssemblyReference.cache
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.AssemblyInfoInputs.cache
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.AssemblyInfo.cs
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.csproj.CoreCompileInputs.cache
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.dll
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/refint/Repository.dll
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.pdb
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/Repository.genruntimeconfig.cache
+/Users/valdas/Downloads/WebApi/Repository/obj/Debug/net6.0/ref/Repository.dll
